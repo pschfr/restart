@@ -1,8 +1,8 @@
-- Random quotes
-- Random Unsplash image
-- Last.fm last streamed
+- [ ] Random quotes
+- [ ] Random Unsplash image
+- [ ] Last.fm last streamed
 	- repackage my old script as a NPM package?
-- Bookmarks with shortcuts
-- Weather from Dark Sky
-- Time/date
-	- [day.js](https://github.com/iamkun/dayjs)
+- [ ] Bookmarks with shortcuts
+- [ ] Weather from Dark Sky
+- [ ] Time/date
+	- [x] [day.js](https://github.com/iamkun/dayjs) installed
